@@ -1,2 +1,2 @@
 # react-starter
-react starter kit
+quick react starter kit
